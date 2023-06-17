@@ -17,32 +17,3 @@ int main()
     return 0;
 }
 
-
-// for (int i = 1; i <= N; i++)
-//     {   
-
-//         for (int j = 1; j <= N; j++)
-//         {
-//             if (i==j)
-//             {   
-//                 if (i!=N/2+1)
-//                 {
-//                     cout<<"\\";
-//                 }
-//                 else{
-//                     cout<<"X";
-//                 }
-                
-//             }
-//             else if(i==N-j+1)
-//             {
-//                 cout<<"/";
-//             }
-//             else{
-//                 cout<<" ";
-//             }
-//         }
-//         cout<<endl;
-//     }
-    
-// }
